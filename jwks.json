@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kid": "TY691EEHVMDYAAUPSRYA9EQONR3TXHU--KX-XBA8",
+      "use": "sig",
+      "kty": "RSA",
+      "alg": "RS256",
+      "e": "AQAB",
+      "n": "ty691eehVmdyAAUPsRya9EQOnr3tXhU--Kx-XbA8u-6N_VR71JmWtp_EMc1e-y_W3RE08yLNjk7bpcwVNjC4dQ"
+    }
+  ]
+}
